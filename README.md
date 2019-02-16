@@ -1,5 +1,5 @@
 # Man Paman Sing Ngguyang Jaran :racehorse:
-Merupakan lagu jawa lama yang sangat sarat dengan pesan ataupun makna.
+Lagu ini bisa bermakna sangat banyak salah satunya adalah suatu peringatan dimana kehilangan popok bayi merupakan pertanda bahwa hilangnya penutup (popok) itu merupakan simbol dari hilangnya suatu "kehormatan/harga diri" yang bahkan sudah terjadi sejak bayi. 
 
 Editing dan produksi hasil akhir audio memakai Audacity 2.2.2 pada Januari 2019. 
 
