@@ -13,25 +13,25 @@ Man Paman Sing Ngguyang Jaran
 Nopo Wau Wonten Popok Beruk Keri
 Popoke Limaran Nggih Sulaman Beruke Cengkir Gading Kir Ukiran?
 
-[waduh nduk ora eruh aku, neng coba takono karo paman sing ngguyang kebo, coba...]
+[waduh nduk ora eruh aku, neng coba takono paman kae sing ngguyang kebo, coba...]
 
 Man Paman Sing Ngguyang Kebo
 Nopo Wau Wonten Popok Beruk Keri
 Popoke Limaran Nggih Sulaman Beruke Cengkir Gading Kir Ukiran?
 
-[waduh waduh aku ra ngerti nduk, coba takono karo paman sing ngguyang sapi iku...]
+[waduh waduuuh aku ra ngerti yo nduk, coba takono karo paman sing ngguyang sapi...]
 
 Man Paman Sing Ngguyang Sapi
 Nopo Wau Wonten Popok Beruk Keri
 Popoke Limaran Nggih Sulaman Beruke Cengkir Gading Kir Ukiran?
 
-[waduh ra ngerti nduk, tenan ra ngerti coba takono karo nini nini sing mususi kae..]
+[waduh ora ngerti nduk, tenan aku ra ngerti coba takono kae karo nini nini sing mususi kae..]
 
 Ni Nini Sing Mususi
 Nopo Wau Wonten Popok Beruk Keri
 Popoke Limaran Nggih Sulaman Beruke Cengkir Gading Kir Ukiran?
 
-[Ohhh ono nduk..ono, iki lho...neng syarate opo kowe arep dipek anak karo buto?]
+[Ohhh ono nduk..ono, iki lho...neng syarate opo kowe gelem dipek anak karo kaki buto?]
 ```
 
 ## :radio:
