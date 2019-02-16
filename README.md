@@ -1,4 +1,4 @@
-# Man Paman Sing Ngguyang Jaran
+# Man Paman Sing Ngguyang Jaran :racehorse:
 Merupakan lagu jawa lama yang sangat sarat dengan pesan ataupun makna.
 
 Editing dan produksi hasil akhir audio memakai Audacity 2.2.2 pada Januari 2019. 
@@ -6,7 +6,7 @@ Editing dan produksi hasil akhir audio memakai Audacity 2.2.2 pada Januari 2019.
 ![Audacity Edit](Sketch_PNJ_Audacity.png)
 
 
-## Lirik
+## :musical_note: Lirik
 
 ```
 Man Paman Sing Ngguyang Jaran
