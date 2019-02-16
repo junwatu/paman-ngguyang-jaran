@@ -1,7 +1,7 @@
-# Man Paman Sing Ngguyang Jaran :racehorse:
+# :headphones: Man Paman Sing Ngguyang Jaran :racehorse:
 Lagu ini bisa bermakna sangat banyak salah satunya adalah suatu peringatan dimana kehilangan popok bayi merupakan pertanda bahwa hilangnya penutup (popok) itu merupakan simbol dari hilangnya suatu "kehormatan/harga diri" yang bahkan sudah terjadi sejak bayi. 
 
-Editing dan produksi hasil akhir audio memakai Audacity 2.2.2 pada Januari 2019. 
+Sumber audio sebenarnya sangat penuh noise, glitch dsb dan dengan memakai Audacity (yang dipakai disini versi 2.2.2) mungkin repositori ini bisa sebagai pembelajaran untuk editing audio :smile:
 
 ![Audacity Edit](Sketch_PNJ_Audacity.png)
 
@@ -36,7 +36,7 @@ Popoke Limaran Nggih Sulaman Beruke Cengkir Gading Kir Ukiran?
 
 ## Disclaimer
 
-Repositori ini bertujuan hanya untuk edukasi dan mendekatkan diri dengan budaya jawa khususnya.
+Repositori ini bertujuan hanya untuk edukasi dan mendekatkan diri dengan budaya jawa khususnya. 
 
 > Source audio diambil dari Sinau bareng Cak Nun dan Kiai Kanjeng di Ringin Harjo, Bantul 2019.
 
