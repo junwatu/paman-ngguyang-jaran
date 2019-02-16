@@ -34,6 +34,12 @@ Popoke Limaran Nggih Sulaman Beruke Cengkir Gading Kir Ukiran?
 [Ohhh ono nduk..ono, iki lho...neng syarate opo kowe arep dipek anak karo buto?]
 ```
 
+## :radio:
+
+![player](Sketch_Player.png)
+
+[Sediakan headset bruh!](https://junwatu.github.io/paman-ngguyang-jaran/)
+
 ## Disclaimer
 
 Repositori ini bertujuan hanya untuk edukasi dan mendekatkan diri dengan budaya jawa khususnya. 
