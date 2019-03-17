@@ -39,7 +39,7 @@ Kalau memakai browser modern (kayak chrome terbaru) anda bisa mencoba [player](h
 
 ![player](Sketch_Player.png)
 
-[> saya lebih suka pake :headphones: bruh!](https://junwatu.github.io/paman-ngguyang-jaran/)
+[> saya lebih suka pake :headphones: bruh!](https://sajen.id/tak-berhingga/paman-ngguyang-jaran)
 
 ## Disclaimer
 
