@@ -35,7 +35,7 @@ Popoke Limaran Nggih Sulaman Beruke Cengkir Gading Kir Ukiran?
 ```
 
 ## :radio:
-Kalau memakai browser modern (kayak chrome terbaru) anda bisa mencoba [player](https://sajenid.github.io/paman-ngguyang-jaran/) untuk lagu satu ini.
+Kalau memakai browser modern (kayak chrome terbaru) anda bisa mencoba [player](https://junwatu.github.io/paman-ngguyang-jaran/) untuk lagu satu ini.
 
 ![player](Sketch_Player.png)
 
